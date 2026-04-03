@@ -1,0 +1,75 @@
+main{
+    width: 100%;
+}
+.sec1{
+    width: 100%; height: 100vh;
+    position: relative;
+    background-size: cover;
+}
+.sec1>h1{
+    font-size: 60px;
+    line-height: 1.4;
+    text-align: center;
+    padding-top: 400px;
+    color: #fff;
+    font-weight: 900;
+}
+.sec2{
+    width: 800px;
+    margin: 100px auto;
+}
+.sec2 h3{
+    display: inline-block;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: -0.023em;
+    line-height: 1.3;
+    margin-bottom: 16px;
+    position: relative;
+}
+.sec2 h3::after{
+    content: "";
+    display: block;
+    position: absolute;
+    width: 10px; height: 10px;
+    background-color: #00b8ff;
+    right: -16px; bottom: 10px;
+    border-radius: 50%;
+}
+.sec2 p{
+    white-space: pre-line;
+    font-size: 19px;
+    font-weight: 700;
+    color: #aaa;
+    letter-spacing: 0.025em;
+    line-height: 1.5;
+}
+.sec2 img{
+    width: 100%;
+    margin: 50px 0;
+}
+
+.sec3{
+    padding:  100px 0;
+    width: 100%; 
+    background-color: #f7f8f9;
+    position: relative;
+}
+.sec3>p{
+    text-align: center;
+    font-size: 38px;
+    line-height: 1.5;
+    color: #aaa;
+    font-weight: bold;
+}
+.sec3>p>span{
+    color: #0bb8ff;
+}
+.sec3>div{
+    width: 100%; height: 100%;
+    background-color: rgba(0,184,255,1);
+    position: absolute;
+    transform: skewX(-30deg);
+    left: 70%; bottom: -1px;
+    transform-origin: bottom left;
+}

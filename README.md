@@ -5,7 +5,7 @@
 <img width="2534" height="883" alt="socar" src="https://github.com/user-attachments/assets/09650f3f-eca4-4769-a848-33e503e32d11" />
 
 ## 🔗 링크
-- **배포 링크**: [바로가기](배포 URL)
+- **배포 링크**: https://clone-socar.vercel.app/
 
 ---
 

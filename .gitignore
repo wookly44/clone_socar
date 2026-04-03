@@ -23,7 +23,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# env (환경 변수 - 보안상 매우 중요!)
+# env (환경 변수)
 .env
 .env.local
 .env.development.local

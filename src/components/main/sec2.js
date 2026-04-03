@@ -5,7 +5,7 @@ const sec2 = ({contents})=>{
                 <li>
                     <h3>{content.tit}</h3>
                     <p>{content.txt}</p>
-                    <img src={content.img}/>
+                    <img src={content.img} alt={content.tit}/>
                 </li>
             )}
         </ul>

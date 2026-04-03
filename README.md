@@ -1,49 +1,39 @@
-# 프로젝트 이름
+# SOCAR 클론 코딩
 
-> 한 줄 프로젝트 설명
+> 
 
-![프로젝트 대표 이미지 또는 스크린샷](이미지 URL)
+<img width="2534" height="883" alt="socar" src="https://github.com/user-attachments/assets/09650f3f-eca4-4769-a848-33e503e32d11" />
 
 ## 🔗 링크
 - **배포 링크**: [바로가기](배포 URL)
-- **참고한 원본 사이트**: https://www.socar.kr/
 
 ---
 
 ## 🛠 기술 스택
 
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-FFC1CC?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-FFD8A8?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+![HTML5](https://img.shields.io/badge/HTML5-FFC1CC?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFD8A8?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
 ## 📌 구현 기능
 
-- [x] AOS 라이브러리를 활용한 메인 페이지 스크롤 애니메이션 구현
-- [x] keyframes 및 transform을 활용한 메인 페이지 애니메이션 및 Hover 인터랙션 구현
-- [x] jQuery를 활용한 슬라이드 기능 구현
+- [x] React를 활용한 쏘카 웹사이트 메인 페이지 UI 구현
+- [x] 컴포넌트 기반 구조를 적용하여 유지보수와 재사용을 고려한 코드 작성
 
 ---
 
 ## 🌱 배운 점 / 느낀 점
 
-- 배운 점 1
-- 배운 점 2
+- React의 컴포넌트 기반 구조를 활용하여 UI를 분리하고 관리하는 방식을 경험
+- 페이지를 Header, Main, Footer 등 컴포넌트 단위로 나누어 코드 구조를 체계적으로 관리하는 방법 이해
 
 ---
 
 ## ⚠ 아쉬운 점 / 개선하고 싶은 부분
 
-- 개선점 1
-- 개선점 2
-
----
-
-## 📝 업데이트 기록
-
-- 2026.03.30  
-  - 메인 페이지 슬라이드 기능 구현
+- 상태 관리 및 동적인 기능 추가 구현
 
 ---
 
